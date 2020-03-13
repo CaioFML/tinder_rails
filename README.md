@@ -1,4 +1,4 @@
-# onebittinder
+# Tinder API Rails
 
 ## Project setup
 ```
